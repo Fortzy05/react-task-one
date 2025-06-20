@@ -29,7 +29,7 @@ function App() {
         onClick={toggleDarkMode}
         className="absolute top-5 right-5 px-4 py-2 dark:bg-gray-700 rounded-lg bg-gray-700 text-white shadow-md hover:bg-gray-600 transition"
       >
-        {darkMode ? "Light Mode" : "Dark Mode"}
+        {darkMode ? "☀️ Light Mode" : "🌙 Dark Mode"}
       </button>
 
       <div>
